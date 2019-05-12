@@ -1,0 +1,25 @@
+default-rütbe: '&8[&9RankZ&8] &eSunucunun default rütbesi verildi.'
+
+duyuru: '&8[&9RankZ&8] &e{oyuncu}, {rütbe} &erütbesine ulaştı!'
+
+liste-mesajları:
+    mevcut: '&8[&9RankZ&8] &eMevcut rütbeler:'
+    rütbeler: '&8[&9RankZ&8] {liste} - {fiyat}'
+
+yardım:
+- '&9&m---------------------------&b'
+- '&e/rankz atla &7- Rütbe atlatır.'
+- '&e/rankz liste &7- Rütbe listesi.'
+- '&e/rankz yardım &7- Yardım mesajı.'
+- '&e/rankz yenile &7- RankZ yenilenir.'
+- '&9&m---------------------------&b'
+
+yenilendi: '&8[&9RankZ&8] &eYenileme tamamlandı.'
+
+yetkiniz-yok: '&8[&9RankZ&8] &eBu işlem için yetkiniz yok.'
+
+title-mesajları:
+    hata: '&cHata'
+    para-yetersiz: '&cParanız yetersiz!'
+    başarılı: '&aBaşarılı'
+    yeni-rütbe: '&aYeni rütbeniz: {rütbe}'

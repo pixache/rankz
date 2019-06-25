@@ -1,0 +1,38 @@
+gui:
+    isim: '&cPreFurnaces - Hızlı Erit'
+    genislik: 6
+
+esyalar:
+    altin:
+        isim: '&6Altın Madeni&r'
+        slot: 10
+        eritilen:
+            item: gold ore
+            miktar: 1
+            sure: 10
+        eritince-ver:
+            item: golden ingot
+            isim: '&6Altın Cevheri'
+            miktar: 1
+    demir:
+        isim: '&7Demir Madeni&r'
+        slot: 13
+        eritilen:
+            item: iron ore
+            miktar: 1
+            sure: 12
+        eritince-ver:
+            item: iron ingot
+            isim: '&fDemir Cevheri'
+            miktar: 1
+    elmas:
+        isim: '&bElmas Madeni&r'
+        slot: 16
+        eritilen:
+            item: diamond ore
+            miktar: 1
+            sure: 15
+        eritince-ver:
+            item: diamond
+            isim: '&bElmas Cevheri&r'
+            miktar: 1
